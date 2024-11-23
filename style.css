@@ -17,7 +17,7 @@ body {
 
 .hero-section h1, .hero-section h4 {
   margin: 0;
-  padding: 6px;
+  padding: 5px;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
