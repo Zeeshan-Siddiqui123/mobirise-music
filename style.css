@@ -5,15 +5,7 @@ body {
 }
 
 /* Hero Section Styling */
-.hero-section {
-  height: 100vh;
-  background-size: cover;
-  background-position: center;
-  color: #fff;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
+
 
 .hero-section h1, .hero-section h4 {
   margin: 0;
